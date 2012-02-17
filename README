@@ -1,0 +1,3 @@
+# jQuery Unmask
+
+This plugin covers everything except the selected element with mask elements, giving the appearance of the element showing through a rectangular hole.  Because this method does not rely on z-index stacking, it does not suffer from issues where the selected element may have a parent with a (low) z-index.
